@@ -1,6 +1,6 @@
 # weather_data
 
-Data taiks about "Weather Condations" in months in 2012
+Data about "Weather Condations" in months in 2012
 About Project 
 
 I am used python to import data from csv file 
